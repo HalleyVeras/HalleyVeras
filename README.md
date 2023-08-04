@@ -46,7 +46,17 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 
 
 
+
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198087182726/)
 [![Discord](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/play/share/friend/HX8M3AY7UR)
 #
-![HalleyVeras GitHub stats](https://github-readme-stats.vercel.app/api?username=HalleyVeras&theme=blue-green)
+![HalleyVeras GitHub stats](https://github-readme-stats.vercel.app/api?username=HalleyVeras&theme=radical)
+![ddddd](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalleyVeras&theme=radical)
+#
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalleyVeras&theme=radical)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalleyVeras&theme=radical&exclude={exclude})
+
+
+
