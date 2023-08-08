@@ -20,35 +20,81 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 
 
 # My main technologies:
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
-[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
-[![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
-[![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)]()
-[![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]()
-[![](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]()
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![](https://aleen42.github.io/badges/src/illustrator.svg)]()
-[![](https://aleen42.github.io/badges/src/dreamweaver.svg)]()
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+      <img  alt="Java" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img  alt="Php" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+      <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+      <img  alt="Eclipse" height="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
+  </a>
+    <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
+      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  </a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer">
+      <img  alt="anaconda" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img  alt="Springboot" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  </a>
+   <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer">
+      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
+  </a>
+   <a href="https://github.com/HalleyVeras" target="_blank" rel="noreferrer">
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+   <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
+      <img  alt="Illustrator" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+  </a>
+  <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
+      <img  alt="Dreamweaver" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/>
+  </a>
+  <a href="https://www.microsoft.com/pt-br" target="_blank" rel="noreferrer">
+      <img  alt="Microsoft" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"/>
+  </a>
+  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+      <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+  </a>
+  <a href="https://www.opera.com/" target="_blank" rel="noreferrer">
+      <img  alt="Opera" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
+  </a>
+  <a href="https://www.mozilla.org/pt-BR/firefox/" target="_blank" rel="noreferrer">
+      <img  alt="Firefox" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
+  </a>        
 
 
 ## Connect with me: 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://halley.veras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halley.veras/)
-[![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/<5581996107759>)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XQpa3YUH)
 
+<a href="mailto:halleyveras@gmail.com" target="_blank" rel="noreferrer">
+      <img  alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
+  <a href="https://w.app/HalleyVeras" target="_blank" rel="noreferrer">
+      <img  alt="Zap" height="50px" style="padding-right:10px; ;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
+  </a>
+  <a href="https://www.instagram.com/halley.veras/" target="_blank" rel="noreferrer">
+      <img  alt="Instagram" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+  </a>
+  <a href="https://discord.gg/XQpa3YUH" target="_blank" rel="noreferrer">
+      <img  alt="Discord" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198087182726/" target="_blank" rel="noreferrer">
+      <img  alt="Steam" height="50px" style="padding-right:10px;"src="https://www.svgrepo.com/show/452107/steam.svg"/>
+  </a>
+  <a href="https://www.xbox.com/play/share/friend/HX8M3AY7UR" target="_blank" rel="noreferrer">
+      <img  alt="Xbox" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452137/xbox.svg" />
+  </a>
 
-
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198087182726/)
-[![Discord](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/play/share/friend/HX8M3AY7UR)
 #
 ![HalleyVeras GitHub stats](https://github-readme-stats.vercel.app/api?username=HalleyVeras&theme=radical)
 ![ddddd](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalleyVeras&theme=radical)
