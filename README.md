@@ -55,7 +55,7 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
       <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
    <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
-      <img  alt="Illustrator" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+      <img  alt="Illustrator" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"/>
   </a>
   <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
       <img  alt="Dreamweaver" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/>
