@@ -18,6 +18,7 @@ I am always open to new challenges and collaboration opportunities. Therefore, f
 Thank you for visiting my profile, and let's embark on this journey of learning and growing in this vast and astonishing technological universe.
 
 
+![github_cover_banner](https://user-images.githubusercontent.com/81872713/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif)
 
 # My main technologies:
 
