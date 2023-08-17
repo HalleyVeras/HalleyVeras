@@ -96,13 +96,14 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   </a>
 
 #
-![HalleyVeras GitHub stats](https://github-readme-stats.vercel.app/api?username=HalleyVeras&theme=tokyonight)
+
 ![ddddd](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalleyVeras&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalleyVeras&theme=tokyonight&exclude={exclude})
 #
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalleyVeras&theme=tokyonight)
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalleyVeras&theme=tokyonight&exclude={exclude})
+
 
 
 
