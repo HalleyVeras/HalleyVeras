@@ -80,7 +80,7 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 <a href="mailto:halleyveras@gmail.com" target="_blank" rel="noreferrer">
       <img  alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
-  <a href="https://w.app/HalleyVeras" target="_blank" rel="noreferrer">
+  <a href="https://api.whatsapp.com/send?phone=5581996107759&text=Ol%C3%A1!%20Bem-vindo%20ao%20meu%20WhatsApp%20de%20Desenvolvimento.%20Este%20%C3%A9%20o%20lugar%20onde%20compartilho%20minhas%20ideias,%20projetos%20e%20descobertas%20relacionadas%20ao%20mundo%20da%20programa%C3%A7%C3%A3o%20e%20do%20desenvolvimento%20de%20software.%0A%0AFique%20%C3%A0%20vontade%20para%20iniciar%20uma%20conversa%20sobre%20qualquer%20t%C3%B3pico%20relacionado%20ao%20desenvolvimento,%20tirar%20d%C3%BAvidas,%20discutir%20tecnologias%20ou%20simplesmente%20bater%20um%20papo%20sobre%20as%20%C3%BAltimas%20novidades%20no%20mundo%20da%20tecnologia.%0A%0ALembre-se,%20este%20%C3%A9%20um%20espa%C3%A7o%20para%20aprender%20e%20crescer%20juntos,%20ent%C3%A3o%20vamos%20explorar%20o%20fascinante%20universo%20do%20desenvolvimento!%0A%0ATenha%20um%20%C3%B3timo%20dia%20e%20vamos%20come%C3%A7ar%20a%20codificar!%22%0AAt%C3%A9%20breve,%0AHalley%20Veras%20" target="_blank" rel="noreferrer">
       <img  alt="Zap" height="50px" style="padding-right:10px; ;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
   </a>
   <a href="https://www.instagram.com/halley.veras/" target="_blank" rel="noreferrer">
