@@ -91,10 +91,7 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   </a>
   <a href="https://steamcommunity.com/profiles/76561198087182726/" target="_blank" rel="noreferrer">
       <img  alt="Steam" height="50px" style="padding-right:10px;"src="https://www.svgrepo.com/show/452107/steam.svg"/>
-  </a>
-  <a href="https://www.xbox.com/play/share/friend/HX8M3AY7UR" target="_blank" rel="noreferrer">
-      <img  alt="Xbox" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452137/xbox.svg" />
-  </a>
+
 
 #
 
