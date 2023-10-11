@@ -28,9 +28,6 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img  alt="Php" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
   </a>
@@ -92,6 +89,9 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://steamcommunity.com/profiles/76561198087182726/" target="_blank" rel="noreferrer">
       <img  alt="Steam" height="50px" style="padding-right:10px;"src="https://www.svgrepo.com/show/452107/steam.svg"/>
  </a>
+ <a href="https://www.linkedin.com/in/halley-veras-235b68244/" target="_blank" rel="noreferrer">
+      <img  alt="Steam" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014"/>
+ </a>
 
 #
 
@@ -101,7 +101,5 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalleyVeras&theme=tokyonight)
  
-
-
 
 
