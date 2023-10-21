@@ -100,6 +100,8 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 #
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalleyVeras&theme=tokyonight)
+
+![snake gif](https://github.com/HalleyVeras/HalleyVeras/blob/output/github-contribution-grid-snake.svg)
  
 
 
