@@ -6,9 +6,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HalleyVeras}/count.svg" /></p> 
 <br></div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalleyVeras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 ### Hello, there! 
 
@@ -26,8 +24,10 @@ I am always open to new challenges and collaboration opportunities. Therefore, f
 
 Thank you for visiting my profile, and let's embark on this journey of learning and growing in this vast and astonishing technological universe.
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HalleyVeras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-![github_cover_banner](https://user-images.githubusercontent.com/81872713/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif)
 
 # My main technologies:
 
