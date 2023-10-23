@@ -1,5 +1,10 @@
 ![1](https://user-images.githubusercontent.com/136653792/257000781-c9ea9605-7a8a-457d-90ec-60c4c29b4003.jpeg)
 <div  align="center"> 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HalleyVeras}/count.svg" /></p> 
+<br></div>
  
 
 ### Hello, there! 
