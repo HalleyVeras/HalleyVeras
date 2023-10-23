@@ -5,9 +5,13 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HalleyVeras}/count.svg" /></p> 
 <br></div>
- 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HalleyVeras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ### Hello, there! 
+
 
 
 Welcome to my GitHub profile! I am a technology enthusiast, graduated in Information Technology Management in 2011 from Faculdade dos Guararapes.
