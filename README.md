@@ -1,7 +1,7 @@
 ![1](https://user-images.githubusercontent.com/136653792/257000781-c9ea9605-7a8a-457d-90ec-60c4c29b4003.jpeg)
 <div  align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Halley+Veras+Oliveira;I'm+Fullstack+Developer+Java;I+from+Brasil,+PE;I+study+SoftwareEngineering+at+universityCatolica;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Halley+Veras+De+Oliveira;I'm+Fullstack+Developer+Java;I+from+Brasil,+PE;I+study+DataScience+at+universityEstácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -40,7 +40,7 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
       <img  alt="Java" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-      <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+      <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://assets-global.website-files.com/65141f14d70bcfacd794fa3c/651d90b0c6ed49fdcad29c85_MySQL-Logo.png"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
