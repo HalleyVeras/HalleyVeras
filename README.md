@@ -45,6 +45,12 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
+  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+  </a>
+  <a href="https://www.notion.so/halley-programacao/Data-Science-be5e95626305405c8787fb44f134569c" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"/>
+  </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
       <img  alt="Eclipse" height="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
   </a>
@@ -73,7 +79,7 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
       <img  alt="Microsoft" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"/>
   </a>
   <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
-      <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+      <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-512.png"/>
   </a>
   <a href="https://www.opera.com/" target="_blank" rel="noreferrer">
       <img  alt="Opera" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
