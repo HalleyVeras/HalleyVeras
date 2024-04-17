@@ -51,6 +51,21 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://www.notion.so/halley-programacao/Data-Science-be5e95626305405c8787fb44f134569c" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"/>
   </a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
+  </a>
+   <a href="https://numpy.org" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>
+  </a>
+   <a href="https://www.tensorflow.org/learn?hl=pt-br" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+  </a>
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915"/>
+  </a>
+  <a href="https://www.spyder-ide.org" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://avatars.githubusercontent.com/u/1284937?v=4"/>
+  </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
       <img  alt="Eclipse" height="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
   </a>
