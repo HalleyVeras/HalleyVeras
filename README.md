@@ -42,6 +42,9 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://assets-global.website-files.com/65141f14d70bcfacd794fa3c/651d90b0c6ed49fdcad29c85_MySQL-Logo.png"/>
   </a>
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img  alt="Sql" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -63,6 +66,12 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915"/>
   </a>
+   <a href="https://nodejs.org/docs/v0.10.2/logos/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
+  </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp"/>
+  </a>
   <a href="https://www.spyder-ide.org" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://avatars.githubusercontent.com/u/1284937?v=4"/>
   </a>
@@ -80,6 +89,9 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   </a>
    <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer">
       <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
+  </a>
+   <a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
+      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
   </a>
    <a href="https://github.com/HalleyVeras" target="_blank" rel="noreferrer">
       <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -101,6 +113,9 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
   </a>
   <a href="https://www.mozilla.org/pt-BR/firefox/" target="_blank" rel="noreferrer">
       <img  alt="Firefox" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
+  </a>
+   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+      <img  alt="Firefox" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp"/>
   </a>        
 
 
