@@ -33,6 +33,9 @@ Thank you for visiting my profile, and let's embark on this journey of learning 
 
 # My main technologies:
 
+<a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer">
+      <img  alt="aws" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" />
+  </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
